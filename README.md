@@ -1,2 +1,2 @@
-# GO
+# GOLANG 
 Learning golang
